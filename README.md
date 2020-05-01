@@ -11,4 +11,4 @@ Hope it's of use to anyone out there!
 ## Submissions
 + Week 1
     
-    + Day #1 - Weekday 1 - 1st May 2020 - [First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) - [My Submission]()
+    + Day #1 - Weekday 1 - 1st May 2020 - [First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/1_first_bad_version.py)
