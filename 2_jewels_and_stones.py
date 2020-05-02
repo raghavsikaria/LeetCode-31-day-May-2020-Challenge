@@ -29,7 +29,7 @@
 ############################################################################
 
 # ACCEPTED SOLUTION 1
-# This solution is way better as it ensures O(1) Space and Time Complexity for Large strings
+# This solution is way better as it ensures O(n) Time and O(1) Space Complexity for Large strings
 
 class Solution:
     def populate_frequency_array(self,given_string,lcase_array,ucase_array):
