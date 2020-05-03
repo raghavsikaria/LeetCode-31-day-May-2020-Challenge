@@ -2,7 +2,7 @@
 # Author: Raghav Sikaria
 # LinkedIn: https://www.linkedin.com/in/raghavsikaria/
 # Github: https://github.com/raghavsikaria
-# Last Update: 1-5-2020
+# Last Update: 2-5-2020
 # Project: LeetCode May 31 Day 2020 Challenge - Day 2
 ##########################################################
 
