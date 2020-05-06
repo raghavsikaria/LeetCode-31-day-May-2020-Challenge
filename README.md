@@ -16,6 +16,7 @@ Hope it's of use to anyone out there!
     + Day #3 - Weekday 7 - 3nd May 2020 - [Ransom Note](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/3_ransom_note.py)
     + Day #4 - Weekday 1 - 4rth May 2020 - [Number Complement](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/4_number_complement.py)
     + Day #5 - Weekday 2 - 5th May 2020 - [First Unique Character in a String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/5_first_unique_character_in_string.py)
+    + Day #6 - Weekday 3 - 6th May 2020 - [Majority Element](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/6_majority_element.py)
 
 ## Summary
 
@@ -26,3 +27,4 @@ Hope it's of use to anyone out there!
 | 3 | [Ransom Note](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/3_ransom_note.py) | Frequency Array | Array | O(n) | O(1) |
 | 4 | [Number Complement](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/4_number_complement.py) | | Array | O(logn) | O(1) |
 | 5 | [First Unique Character in a String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/5_first_unique_character_in_string.py) | Frequency Array | Array | O(n) | O(1) |
+| 6 | [Majority Element](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/6_majority_element.py) | Sorting | | O(nlogn) | O(1) |
