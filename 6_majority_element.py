@@ -42,3 +42,26 @@ class Solution_:
     def majorityElement(self, nums: List[int]) -> int:
         nums.sort()
         return nums[floor(len(nums)/2)]
+
+# ACCEPTED SOLUTION #3
+# [NEW][LEARNING] Boyer Moore Majority Vote Algorithm
+# Personal Comments: My best learning experience so far. Have come across this algorithm before, but had
+# never paid attention to it. Reminded me of the time when I discovered KADANE's algorithm!
+# SOURCE: 
+    # https://www.techiedelight.com/find-majority-element-in-an-array-boyer-moore-majority-vote-algorithm/
+    # https://www.geeksforgeeks.org/majority-element/
+    # https://stackoverflow.com/questions/4325200/find-the-majority-element-in-array
+# This solution ensures O(n) Time and O(1) Space Complexity
+
+class Solution__:
+    def majorityElement(self, nums: List[int]) -> int:
+        counter = 0
+        major_candidate = None
+        for number in nums:
+            if counter == 0:  
+                major_candidate = number
+                counter = 1
+            elif major_candidate == number:  counter += 1
+            else:   counter -= 1
+        
+        return major_candidate
