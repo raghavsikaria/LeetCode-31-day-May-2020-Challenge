@@ -17,6 +17,7 @@ Hope it's of use to anyone out there!
     + Day #4 - Weekday 1 - 4rth May 2020 - [Number Complement](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/4_number_complement.py)
     + Day #5 - Weekday 2 - 5th May 2020 - [First Unique Character in a String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/5_first_unique_character_in_string.py)
     + Day #6 - Weekday 3 - 6th May 2020 - [Majority Element](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/6_majority_element.py)
+    + Day #7 - Weekday 4 - 7th May 2020 - [Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/7_cousins_in_binary_tree.py)
 
 ## Summary
 
@@ -28,3 +29,4 @@ Hope it's of use to anyone out there!
 | 4 | [Number Complement](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/4_number_complement.py) | | Array | O(logn) | O(1) |
 | 5 | [First Unique Character in a String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/5_first_unique_character_in_string.py) | Frequency Array | Array | O(n) | O(1) |
 | 6 | [Majority Element](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/6_majority_element.py) | Boyer Moore Majority Vote | | O(n) | O(1) |
+| 7 | [Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/7_cousins_in_binary_tree.py) | | | O(n) | O(1) |
