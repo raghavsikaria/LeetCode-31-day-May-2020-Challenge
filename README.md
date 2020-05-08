@@ -19,6 +19,10 @@ Hope it's of use to anyone out there!
     + Day #6 - Weekday 3 - 6th May 2020 - [Majority Element](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/6_majority_element.py)
     + Day #7 - Weekday 4 - 7th May 2020 - [Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/7_cousins_in_binary_tree.py)
 
++ Week 2
+    
+    + Day #8 - Weekday 5 - 1st May 2020 - [Check if it is a straight line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/8_check_if_it_is_a_straight_line.py)
+
 ## Summary
 
 | # | Problem | Algorithm | Data Structure | Time Complexity | Space Complexity |
@@ -30,3 +34,4 @@ Hope it's of use to anyone out there!
 | 5 | [First Unique Character in a String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/5_first_unique_character_in_string.py) | Frequency Array | Array | O(n) | O(1) |
 | 6 | [Majority Element](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/6_majority_element.py) | Boyer Moore Majority Vote | | O(n) | O(1) |
 | 7 | [Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/7_cousins_in_binary_tree.py) | | | O(n) | O(1) |
+| 8 | [Check if it is a straight line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/8_check_if_it_is_a_straight_line.py) | | | O(n) | O(1) |
