@@ -21,7 +21,8 @@ Hope it's of use to anyone out there!
 
 + Week 2
     
-    + Day #8 - Weekday 5 - 1st May 2020 - [Check if it is a straight line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/8_check_if_it_is_a_straight_line.py)
+    + Day #8 - Weekday 5 - 8th May 2020 - [Check if it is a straight line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/8_check_if_it_is_a_straight_line.py)
+    + Day #9 - Weekday 6 - 9th May 2020 - [Valid perfect square](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/9_valid_perfect_square.py)
 
 ## Summary
 
@@ -35,3 +36,4 @@ Hope it's of use to anyone out there!
 | 6 | [Majority Element](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/6_majority_element.py) | Boyer Moore Majority Vote | | O(n) | O(1) |
 | 7 | [Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/7_cousins_in_binary_tree.py) | | | O(n) | O(1) |
 | 8 | [Check if it is a straight line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/8_check_if_it_is_a_straight_line.py) | | | O(n) | O(1) |
+| 9 | [Valid perfect square](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/9_valid_perfect_square.py) | Binary Search | | O(logn) | O(1) |
