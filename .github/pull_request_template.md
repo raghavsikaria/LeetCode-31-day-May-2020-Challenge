@@ -10,3 +10,5 @@ Select the appropriate reason for your PR:
 - [ ] Propose an alternative solution in Python
 - [ ] Propose a solution in any language other than Python
 - [ ] Propose an edit/review for a current solution
+
+Any addtional comments/information:
