@@ -56,6 +56,8 @@
 
 # ACCEPTED SOLUTION
 # This solution ensures O(n) Time and O(n) Space Complexity
+# Not a fan of this solution, and if I keep Space Complexity as O(1)
+# needless to say, I'll be raising Time Complexity to atleast O(nlogn)
 class Solution:
     def findJudge(self, N: int, trust: List[List[int]]) -> int:
         answer = -1
