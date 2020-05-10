@@ -23,6 +23,7 @@ Hope it's of use to anyone out there!
     
     + Day #8 - Weekday 5 - 8th May 2020 - [Check if it is a straight line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/8_check_if_it_is_a_straight_line.py)
     + Day #9 - Weekday 6 - 9th May 2020 - [Valid perfect square](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/9_valid_perfect_square.py)
+    + Day #10 - Weekday 7 - 10th May 2020 - [Find the town judge](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/10_find_the_town_judge.py)
 
 ## Summary
 
@@ -37,3 +38,4 @@ Hope it's of use to anyone out there!
 | 7 | [Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/7_cousins_in_binary_tree.py) | | | O(n) | O(1) |
 | 8 | [Check if it is a straight line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/8_check_if_it_is_a_straight_line.py) | | | O(n) | O(1) |
 | 9 | [Valid perfect square](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/9_valid_perfect_square.py) | Binary Search | | O(logn) | O(1) |
+| 10 | [Find the town judge](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/10_find_the_town_judge.py) | Frequency Array | | O(n) | O(n) |
