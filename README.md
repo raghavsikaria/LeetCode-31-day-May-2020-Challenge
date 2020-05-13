@@ -26,6 +26,7 @@ Hope it's of use to anyone out there!
     + Day #10 - Weekday 7 - 10th May 2020 - [Find the town judge](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/10_find_the_town_judge.py)
     + Day #11 - Weekday 1 - 11th May 2020 - [Flood Fill](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/11_flood_fill.py)
     + Day #12 - Weekday 2 - 12th May 2020 - [Single element in sorted array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/12_single_element_in_sorted_array.py)
+    + Day #13 - Weekday 3 - 13th May 2020 - [Remove k digits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/13_remove_k_digits.py)
 
 ## Summary
 
@@ -43,3 +44,4 @@ Hope it's of use to anyone out there!
 | 10 | [Find the town judge](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/10_find_the_town_judge.py) | Frequency Array | | O(n) | O(n) |
 | 11 | [Flood Fill](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/11_flood_fill.py) | Flood Fill Recursion/BFS | Queue | O(n^2) | O(n^2) |
 | 12 | [Single element in sorted array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/12_single_element_in_sorted_array.py) | Binary Search | | O(logn) | O(1) |
+| 13 | [Remove k digits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/13_remove_k_digits.py) | | Stack | O(n) | O(n) |
