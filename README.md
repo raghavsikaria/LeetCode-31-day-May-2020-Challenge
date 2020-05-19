@@ -35,6 +35,7 @@ Hope it's of use to anyone out there!
     + Day #16 - Weekday 6 - 16th May 2020 - [Odd Even Linked List](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/16_odd_even_linked_list.py)
     + Day #17 - Weekday 7 - 17th May 2020 - [Find all anagrams in string](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/17_find_all_anagrams_in_string.py)
     + Day #18 - Weekday 1 - 18th May 2020 - [Permutation in String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/18_permutation_in_string.py)
+    + Day #19 - Weekday 2 - 19th May 2020 - [Online Stock Span](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/19_online_stock_span.py)
 
 ## Summary
 
@@ -58,3 +59,4 @@ Hope it's of use to anyone out there!
 | 16 | [Odd Even Linked List](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/16_odd_even_linked_list.py) | | Linked List | O(n) | O(1) |
 | 17 | [Find all anagrams in string](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/17_find_all_anagrams_in_string.py) | Frequency Array + Sliding Window | | O(n) | O(1) |
 | 18 | [Permutation in String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/18_permutation_in_string.py) | Frequency Array + Sliding Window | | O(n) | O(1) |
+| 19 | [Online Stock Span](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/19_online_stock_span.py) | | Stack | O(n) | O(n) |
