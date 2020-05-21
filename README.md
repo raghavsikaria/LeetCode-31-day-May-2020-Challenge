@@ -37,6 +37,7 @@ Hope it's of use to anyone out there!
     + Day #18 - Weekday 1 - 18th May 2020 - [Permutation in String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/18_permutation_in_string.py)
     + Day #19 - Weekday 2 - 19th May 2020 - [Online Stock Span](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/19_online_stock_span.py)
     + Day #20 - Weekday 3 - 20th May 2020 - [Kth Smallest Element in a BST](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/20_kth_smallest_element_in_bst.py)
+    + Day #21 - Weekday 4 - 21th May 2020 - [Count Square Submatrices with All Ones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/21_count_square_matrices_with_all_ones.py)
 
 ## Summary
 
@@ -62,3 +63,4 @@ Hope it's of use to anyone out there!
 | 18 | [Permutation in String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/18_permutation_in_string.py) | Frequency Array + Sliding Window | | O(n) | O(1) |
 | 19 | [Online Stock Span](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/19_online_stock_span.py) | | Stack | O(n) | O(n) |
 | 20 | [Kth Smallest Element in a BST](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/20_kth_smallest_element_in_bst.py) | | | O(n) | O(n) |
+| 21 | [Count Square Submatrices with All Ones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/21_count_square_matrices_with_all_ones.py) | DP Paradigm | | O(n^2) | O(1) |
