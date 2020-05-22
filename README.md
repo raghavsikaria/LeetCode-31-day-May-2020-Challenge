@@ -39,6 +39,10 @@ Hope it's of use to anyone out there!
     + Day #20 - Weekday 3 - 20th May 2020 - [Kth Smallest Element in a BST](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/20_kth_smallest_element_in_bst.py)
     + Day #21 - Weekday 4 - 21th May 2020 - [Count Square Submatrices with All Ones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/21_count_square_matrices_with_all_ones.py)
 
++ Week 4
+    
+    + Day #22 - Weekday 5 - 22th May 2020 - [Sort Characters By Frequency](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/22_sort_characters_by_frequency.py)
+
 ## Summary
 
 | # | Problem | Algorithm | Data Structure | Time Complexity | Space Complexity |
@@ -64,3 +68,4 @@ Hope it's of use to anyone out there!
 | 19 | [Online Stock Span](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/19_online_stock_span.py) | | Stack | O(n) | O(n) |
 | 20 | [Kth Smallest Element in a BST](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/20_kth_smallest_element_in_bst.py) | | | O(n) | O(n) |
 | 21 | [Count Square Submatrices with All Ones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/21_count_square_matrices_with_all_ones.py) | DP Paradigm | | O(n^2) | O(1) |
+| 22 | [Sort Characters By Frequency](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/22_sort_characters_by_frequency.py) | DP Paradigm | | O(n^2) | O(1) |
