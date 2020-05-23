@@ -42,6 +42,7 @@ Hope it's of use to anyone out there!
 + Week 4
     
     + Day #22 - Weekday 5 - 22th May 2020 - [Sort Characters By Frequency](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/22_sort_characters_by_frequency.py)
+    + Day #23 - Weekday 6 - 23th May 2020 - [Interval List Intersections](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3338/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/23_interval_list_intersection.py)
 
 ## Summary
 
@@ -69,3 +70,4 @@ Hope it's of use to anyone out there!
 | 20 | [Kth Smallest Element in a BST](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/20_kth_smallest_element_in_bst.py) | | | O(n) | O(n) |
 | 21 | [Count Square Submatrices with All Ones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/21_count_square_matrices_with_all_ones.py) | DP Paradigm | | O(n^2) | O(1) |
 | 22 | [Sort Characters By Frequency](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/22_sort_characters_by_frequency.py) | Frequency Array | Array | O(n) | O(1) |
+| 23 | [Interval List Intersections](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3338/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/23_interval_list_intersection.py) | | | O(n) | O(1) |
