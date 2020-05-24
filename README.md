@@ -43,6 +43,7 @@ Hope it's of use to anyone out there!
     
     + Day #22 - Weekday 5 - 22th May 2020 - [Sort Characters By Frequency](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/22_sort_characters_by_frequency.py)
     + Day #23 - Weekday 6 - 23th May 2020 - [Interval List Intersections](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3338/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/23_interval_list_intersection.py)
+    + Day #24 - Weekday 7 - 24th May 2020 - [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/24_construct_binary_search_tree_from_preorder_traversal.py)
 
 ## Summary
 
@@ -71,3 +72,4 @@ Hope it's of use to anyone out there!
 | 21 | [Count Square Submatrices with All Ones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/21_count_square_matrices_with_all_ones.py) | DP Paradigm | | O(n^2) | O(1) |
 | 22 | [Sort Characters By Frequency](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/22_sort_characters_by_frequency.py) | Frequency Array | Array | O(n) | O(1) |
 | 23 | [Interval List Intersections](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3338/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/23_interval_list_intersection.py) | | | O(n) | O(1) |
+| 24 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/24_construct_binary_search_tree_from_preorder_traversal.py) | | Stack | O(n) | O(n) |
