@@ -99,3 +99,36 @@ class Solution_:
                         break
                     searchnode = searchnode.right
         return head
+
+
+# SOLUTIONS FROM OTHER SUBMISSIONS
+# Found this crazy solution from LEETCODE
+# [SOURCE]: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/discuss/649061/A-Morris-Stype-method-%2B-summary-of-4-methods
+# by newRuanXY
+# This one ensures O(n) Time and Space complexity
+# Much like the first solution mentioned here,
+# but more refined and intuitive
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution__:
+    def bstFromPreorder(self, preorder: List[int]) -> TreeNode:
+            if not preorder: return None
+            root = TreeNode( preorder[0] )
+            stack = [ root ]
+            for value in preorder[1:]:
+                node = TreeNode(value)
+                if value < stack[-1].val:
+                    stack[-1].left = node
+                else:
+                    while stack and value > stack[-1].val:
+                        prev = stack.pop()
+                    prev.right = node
+                stack.append(node)
+                
+            return root    
