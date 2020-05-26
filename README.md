@@ -45,6 +45,7 @@ Hope it's of use to anyone out there!
     + Day #23 - Weekday 6 - 23th May 2020 - [Interval List Intersections](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3338/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/23_interval_list_intersection.py)
     + Day #24 - Weekday 7 - 24th May 2020 - [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/24_construct_binary_search_tree_from_preorder_traversal.py)
     + Day #25 - Weekday 1 - 25th May 2020 - [Uncrossed Lines](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/25_uncrossed_lines.py)
+    + Day #26 - Weekday 2 - 26th May 2020 - [Contiguous Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/26_contiguous_array.py)
 
 ## Summary
 
@@ -75,3 +76,4 @@ Hope it's of use to anyone out there!
 | 23 | [Interval List Intersections](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3338/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/23_interval_list_intersection.py) | | | O(n) | O(1) |
 | 24 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/24_construct_binary_search_tree_from_preorder_traversal.py) | | Stack | O(n) | O(n) |
 | 25 | [Uncrossed Lines](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/25_uncrossed_lines.py) | DP Paradigm | | O(nm) | O(nm) |
+| 26 | [Contiguous Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/26_contiguous_array.py) | Prefix Sum | | O(n) | O(n) |
