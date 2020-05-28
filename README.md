@@ -47,6 +47,7 @@ Hope it's of use to anyone out there!
     + Day #25 - Weekday 1 - 25th May 2020 - [Uncrossed Lines](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/25_uncrossed_lines.py)
     + Day #26 - Weekday 2 - 26th May 2020 - [Contiguous Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/26_contiguous_array.py)
     + Day #27 - Weekday 3 - 27th May 2020 - [Possible Bipartition](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/27_possible_bipartition.py)
+    + Day #28 - Weekday 4 - 28th May 2020 - [Counting Bits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/28_counting_bits.py)
 
 ## Summary
 
@@ -79,3 +80,4 @@ Hope it's of use to anyone out there!
 | 25 | [Uncrossed Lines](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/25_uncrossed_lines.py) | DP Paradigm | | O(nm) | O(nm) |
 | 26 | [Contiguous Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/26_contiguous_array.py) | Prefix Sum | | O(n) | O(n) |
 | 27 | [Possible Bipartition](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/27_possible_bipartition.py) | BFS | | O(V+E) | O(V+E) |
+| 28 | [Counting Bits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/28_counting_bits.py) | | | O(n) | O(n) |
