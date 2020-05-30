@@ -48,7 +48,11 @@ Hope it's of use to anyone out there!
     + Day #26 - Weekday 2 - 26th May 2020 - [Contiguous Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/26_contiguous_array.py)
     + Day #27 - Weekday 3 - 27th May 2020 - [Possible Bipartition](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/27_possible_bipartition.py)
     + Day #28 - Weekday 4 - 28th May 2020 - [Counting Bits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/28_counting_bits.py)
+
++ Week 5
+
     + Day #29 - Weekday 5 - 29th May 2020 - [Course Schedule](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/29_course_schedule.py)
+    + Day #30 - Weekday 6 - 29th May 2020 - [K Closest Points to Origin](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/30_k_closest_points_to_origin.py)
 
 ## Summary
 
@@ -83,3 +87,4 @@ Hope it's of use to anyone out there!
 | 27 | [Possible Bipartition](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/27_possible_bipartition.py) | BFS | | O(V+E) | O(V+E) |
 | 28 | [Counting Bits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/28_counting_bits.py) | | | O(n) | O(n) |
 | 29 | [Course Schedule](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/29_course_schedule.py) | Loop Detection + DFS/BFS | Stack/Queue | O(E+V) | O(E+V) |
+| 29 | [K Closest Points to Origin](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/30_k_closest_points_to_origin.py) | Loop Detection + DFS/BFS | Stack/Queue | O(E+V) | O(E+V) |
