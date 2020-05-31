@@ -52,7 +52,8 @@ Hope it's of use to anyone out there!
 + Week 5
 
     + Day #29 - Weekday 5 - 29th May 2020 - [Course Schedule](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/29_course_schedule.py)
-    + Day #30 - Weekday 6 - 29th May 2020 - [K Closest Points to Origin](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/30_k_closest_points_to_origin.py)
+    + Day #30 - Weekday 6 - 30th May 2020 - [K Closest Points to Origin](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/30_k_closest_points_to_origin.py)
+    + Day #31 - Weekday 7 - 31th May 2020 - [Edit Distance](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3346/) - [My Submission](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/31_edit_distance.py)
 
 ## Summary
 
@@ -88,3 +89,4 @@ Hope it's of use to anyone out there!
 | 28 | [Counting Bits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/28_counting_bits.py) | | | O(n) | O(n) |
 | 29 | [Course Schedule](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/29_course_schedule.py) | Loop Detection + DFS/BFS | Stack/Queue | O(E+V) | O(E+V) |
 | 30 | [K Closest Points to Origin](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/30_k_closest_points_to_origin.py) | | | O(nlogn) | O(n) |
+| 31 | [Edit Distance](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3346/) - [Code](https://github.com/raghavsikaria/LeetCode-31-day-May-2020-Challenge/blob/master/31_edit_distance.py) | DP Paradigm | | O(nm) | O(nm) |
